@@ -949,24 +949,12 @@ ul.address {
   color: #fff
 }
 
-#footer .social-icons ul li a.envelope:hover {
-  background-color: #CECB26;
-}
-
 #footer .social-icons ul li a.facebook:hover {
   background-color: #3b5999;
 }
-#footer .social-icons ul li a.twitter:hover {
-  background-color: #2ac6f7;
-}
-#footer .social-icons ul li a.dribbble:hover {
-  background-color: #ff5b92;
-}
-#footer .social-icons ul li a.linkedin:hover {
-  background-color: #036dc0;
-}
-#footer .social-icons ul li a.tumblr:hover {
-  background-color: #ff6b00;
+
+#footer .social-icons ul li a.instagram:hover {
+  background-color: #fbad50;
 }
 
 /*Presets*/
